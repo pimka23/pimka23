@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Aleksandr 👋
 
-<!--
-**pimka23/pimka23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Python Developer
 
-Here are some ideas to get you started:
+I’m transitioning into backend development with a strong engineering background.  
+Previously worked in an IT environment with systems, data, and internal tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech stack
+- Python
+- SQL (PostgreSQL)
+- REST API
+- Git
+- Linux
+- Docker (basic)
+
+### 🚀 Projects
+- VKinder chatbot (VK API + PostgreSQL)
+  - User matching based on profile data
+  - Photo ranking by likes/comments
+  - Data stored in database
+
+### ⚙️ Additional experience
+- Worked with Linux systems and bash scripting  
+- Completed DevOps tasks (Docker, CI/CD basics)  
+- Experience with system-level problem solving  
+
+### 📫 Contact
+- Telegram: @EAST2KHAN  
+- Email: pimka23@yandex.ru
